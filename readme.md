@@ -32,6 +32,7 @@ https://your-live-demo-link.com
 ## 🖼️ Project Preview
 
 ![App Preview](https://github.com/faridullahfrotan/apple-calculator/blob/ff4bb312ea16262ce6a25c1b3ac60bb870de27e2/Screenshot%202026-02-12%20153815.png)
+![app preview](https://github.com/faridullahfrotan/apple-calculator/blob/master/Screenshot%202026-02-12%20154017.png)
 
 ---
 
