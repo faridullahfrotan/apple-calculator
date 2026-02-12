@@ -25,7 +25,7 @@ This project replicates the clean and modern UI of the iOS calculator while main
 ## 🚀 Live Demo
 
 🔗 **Live Preview:**  
-https://your-live-demo-link.com
+https://apple-calculator-eight.vercel.app/
 
 ---
 
